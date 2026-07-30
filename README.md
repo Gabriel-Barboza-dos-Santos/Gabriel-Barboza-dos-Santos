@@ -1,16 +1,27 @@
-## Hi there 👋
+Olá, eu sou o Gabriel Barboza 
 
-<!--
-**Gabriel-Barboza-dos-Santos/Gabriel-Barboza-dos-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro de Computação | Pós-graduando em Engenharia de Dados
 
-Here are some ideas to get you started:
+Atuo no desenvolvimento de soluções computacionais e estou especializando minha carreira para a construção de pipelines de dados escaláveis, arquiteturas de Data Warehouses e processamento distribuído.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------
+Stacks & Tecnologias
+
+Linguagens: Python, SQL, C++, JavaScript
+Engenharia de Dados: PySpark, Pandas, ETL/ELT pipelines
+Bancos de Dados & Storage: PostgreSQL, MySQL, Data Lakes
+Ferramentas & Infra: Git, Docker, Linux
+
+---
+
+Projetos em Destaque
+
+[Pipeline de Dados End-to-End](#) (Em breve):** Ingestão de dados via API, tratamento com Python e carga em Data Warehouse.
+
+[Hawk Eye - Reconhecimento de Imagem](https://github.com/Gabriel-Barboza-dos-Santos/Hawk-Eye---Reconhecimento-de-imagem-para-medidores-de-energia):** Sistema para inspeção e conformidade de medidores de energia utilizando visão computacional.
+
+---
+
+📫 **Contato & Redes:**
+- **LinkedIn:** [www.linkedin.com/in/gabriel-barboza-dos-santos-55b95a231]
+- **E-mail:** [newtoneletricga@gmail.com]
