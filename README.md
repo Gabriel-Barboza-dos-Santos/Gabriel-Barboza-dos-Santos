@@ -8,10 +8,10 @@ Atuo no desenvolvimento de soluções computacionais e estou especializando minh
 
 Stacks & Tecnologias:
 
-Linguagens: Python, SQL, C++, JavaScript
-Engenharia de Dados: PySpark, Pandas, ETL/ELT pipelines
-Bancos de Dados & Storage: PostgreSQL, MySQL, Data Lakes
-Ferramentas & Infra: Git, Docker, Linux
+- Linguagens: Python, SQL, C++, JavaScript
+- Engenharia de Dados: PySpark, Pandas, ETL/ELT pipelines
+- Bancos de Dados & Storage: PostgreSQL, MySQL, Data Lakes
+- Ferramentas & Infra: Git, Docker, Linux
 
 ---
 
