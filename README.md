@@ -16,9 +16,9 @@ Ferramentas & Infra: Git, Docker, Linux
 
 Projetos em Destaque
 
-[Pipeline de Dados End-to-End](#) (Em breve):** Ingestão de dados via API, tratamento com Python e carga em Data Warehouse.
+[Pipeline de Dados End-to-End](#) (Em breve): Ingestão de dados via API, tratamento com Python e carga em Data Warehouse.
 
-[Hawk Eye - Reconhecimento de Imagem](https://github.com/Gabriel-Barboza-dos-Santos/Hawk-Eye---Reconhecimento-de-imagem-para-medidores-de-energia):** Sistema para inspeção e conformidade de medidores de energia utilizando visão computacional.
+[Hawk Eye - Reconhecimento de Imagem](https://github.com/Gabriel-Barboza-dos-Santos/Hawk-Eye---Reconhecimento-de-imagem-para-medidores-de-energia): Sistema para inspeção e conformidade de medidores de energia utilizando visão computacional.
 
 ---
 
